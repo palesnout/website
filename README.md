@@ -1,1 +1,3 @@
-# website
+# PaleSnout
+
+Some silly crypto stuff
